@@ -9,7 +9,7 @@ Dette er repo for et programmerings sprog(No shit)
 #Syntax
 Print:
 <code>ahoy "Hej verden"</code>
-
+![PIRATE](https://github.com/SquirrelEmpire/Pirate-Lang/blob/master/giphy.gif)
 #Test program
 <code>
   PREPARE TO BOARD! 
