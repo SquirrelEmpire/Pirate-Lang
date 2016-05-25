@@ -1,7 +1,7 @@
 # Pirate-Lang
 The Pirate-Lang
 
-Dette er repo for et programmerings sprog(No shit)
+Dette er repo for et programmerings sprog(No shit) <br>
 ![PIRATE](https://github.com/SquirrelEmpire/Pirate-Lang/blob/master/giphy.gif)
 
 
