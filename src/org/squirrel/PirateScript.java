@@ -13,7 +13,7 @@ import java.util.Scanner;
 public class PirateScript {
 	
 	//Pirate-Script V0.0.1
-	//Made by Dem_Squirre/DemSquirrel for Coding Pirates
+	//Started by Dem_Squirre/DemSquirrel for Coding Pirates
 	//https://codingpirates.dk/
 	
 	public static ArrayList<String> toks = new ArrayList<String>();
