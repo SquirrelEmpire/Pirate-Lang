@@ -1,0 +1,13 @@
+		/*File f = new File(path);
+		Scanner in = new Scanner(f);
+		StringBuilder sb = new StringBuilder();
+		System.out.println("Found file: "+path+"!");
+		
+		
+		while(in.hasNextLine()){
+			sb.append(in.nextLine());
+		}
+		
+		in.close();
+		
+		return sb.toString(); */
