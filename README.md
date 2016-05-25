@@ -13,6 +13,7 @@ Dette er repo for et programmerings sprog(No shit) <br>
 3. Compiler thingy
 4. Engine
 5. Fiks alt, der ikke virker
+
 #Syntax
 Print:
 <code>ahoy "Hej verden"</code>
