@@ -16,7 +16,7 @@ public class PirateMain {
 		
 		tokenizer.add("[0-9]+", 3);
 		tokenizer.add("[.|,|;|*|+|-|!]", 4);
-		tokenizer.add("[a-zA-ZæøåÆØÅ\"|'|_][a-zæøåA-ZÆØÅ0-9]*", 5);
+		tokenizer.add("[a-zA-Z0-9]*", 5);
 		
 		LinkedList<LinkedList<String>> list = splitTokens(PirateUtility.readFile("tests/program.pirate"));
 		
