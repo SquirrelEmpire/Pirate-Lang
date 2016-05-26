@@ -6,10 +6,10 @@ Dette er repo for et programmerings sprog(No shit) <br>
 
 #TODO:
 1. Tokenizer : DONE
-2. Forskellige parsers, til forskellige statements
-3. Compiler thingy
-4. Engine
-5. Fiks alt, der ikke virker
+2. Et "piratskib" til at håndtere variabler etc.
+3. Forskellige parsers, til forskellige statements
+4. Compiler thingy
+5. Engine
 
 #Syntax
 Print:
